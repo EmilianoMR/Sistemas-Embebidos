@@ -1,4 +1,4 @@
-#define LED 13 //Declara el PIN 13 como LED
+#define LED 13 
 #define LEDI 12
 //Llama las librerías
 #include <LiquidCrystal.h>     
@@ -13,7 +13,7 @@ void setup()
 {
    pinMode(LEDI,OUTPUT);
    pinMode(LED,OUTPUT);          //LED como Saída
-   lcd.begin(16, 2);            // Inicia el LCD 20x04 (columnas, filas)   
+   lcd.begin(16, 2);            // Inicia el LCD 15x02 (columnas, filas)   
    lcd.setCursor(2, 0);         // Coloca el cursor en las coordenadas (2,0)   
    lcd.print("TIMER ARDUINO"); // Escribe no LCD   
   

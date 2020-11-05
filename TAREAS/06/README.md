@@ -1,20 +1,10 @@
-# Tarea Número 01
-## Sensores y Actuadores
-## Presentación en diapositivas / mapa mental / 
-### Sergio Francisco Hernández Machuca
+# Tarea Número 06
+## EQUIPO 6
+## Aplicación de Menú genérico 
+### -Sergio David Martínez González
+### - Jesús Emiliano Mendoza
+### - Julio Rangel Pulido
 
-En esta sección se encuentra lo relacionado con Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
+Esta tarea consiste en el diseño de un menú genérico el cual incluye un LCD 20x4. Este menú se controla mediante push buttoms y permite navegar en las 4 direcciones. Tiene dos leds que pueden ser encendidos y apagados, así como mostrar su estado en un salvapantallas que se activa al no detectar actividad en los botones durante un tiempo.
 
-Continúa con con el tratamiento de los Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
-
-Esta tarea se entregó el día 23 de septiembre del 2020, año del Covid-19.
+Esta tarea se entregó el día 04 de Noviembre del 2020, año del Covid-19.

@@ -1,20 +1,14 @@
-# Tarea Número 01
-## Sensores y Actuadores
-## Presentación en diapositivas / mapa mental / 
-### Sergio Francisco Hernández Machuca
+# Tarea Número 05
+## EQUIPO 6
+## Programa con interrupciones 
+### -Sergio David Martínez González
+### - Jesús Emiliano Mendoza
+### - Julio Rangel Pulido
 
-En esta sección se encuentra lo relacionado con Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
+En esta tarea se creará un programa con el uso de interrupciones.
 
-Continúa con con el tratamiento de los Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
+En el primer ejecicio se usará unos LEDs a los cuales se estarán encendiendo y apagando a partir de interrupciones, las cuales serán generadas por medio de botones.
 
-Esta tarea se entregó el día 23 de septiembre del 2020, año del Covid-19.
+En el segundo ejercicio se realizará un timer el cual se iniciará con una interrupción, este timar mostrará su proceso en la pantalla y tendrá una interrupción para reiniciar su cuenta, las interrupciones serán marcadas por los LEDs.an (IIC, SPI, Serial, Otro)
+
+Esta tarea se entregó el día 04 de Noviembre del 2020, año del Covid-19.

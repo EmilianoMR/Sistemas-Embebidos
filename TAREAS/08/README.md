@@ -1,6 +1,9 @@
 #Tarea Número 08
+
 ##Ejercicio aplicación en la Nube
+
 ##Equipo 06:
+
 - Sergio David Martínez González
 - Jesús Emiliano Mendoza
 - Julio Rangel Pulido

@@ -1,20 +1,11 @@
-# Tarea Número 01
-## Sensores y Actuadores
-## Presentación en diapositivas / mapa mental / 
-### Sergio Francisco Hernández Machuca
+# Tarea Número 09
+## Sistemas en tiempo real con FreeRTOS
+### Equipo 06:
+### - Sergio David Martínez González
+### - Jesús Emiliano Mendoza
+### - Julio Rangel Pulido
 
-En esta sección se encuentra lo relacionado con Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
-
-Continúa con con el tratamiento de los Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
-
-Esta tarea se entregó el día 23 de septiembre del 2020, año del Covid-19.
+En esta actividad se va a desarrollar un programa el cual realizará distintas tareas usando un sistema operativo de tiempo real (FreeRTOS)
+en este caso se utilizará una placa Esp32 por la facilidad de que no necesita de ninguna librería para ser compatible con el sistema operativo ya mencionado.
+Las tareas mencionadas serán un total de 8 estas contaran con distintas conclusiones, también tendrán interrupciones a distintos momentos,
+algunas tareas se comunicarán con otras y todas las acciones que lleven a cabo serán mostradas al usuario a través del puerto serial.
